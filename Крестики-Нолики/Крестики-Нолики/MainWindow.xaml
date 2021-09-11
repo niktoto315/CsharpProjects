@@ -1,0 +1,15 @@
+﻿<Window x:Class="Крестики_Нолики.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Крестики_Нолики"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="335" Width="319" MouseLeftButtonDown="Window_MouseLeftButtonDown">
+    <Grid x:Name="MyGrid">
+        <Line X1="100" Y1="0" X2="100" Y2="300" Stroke="Black"></Line>
+        <Line X1="200" Y1="0" X2="200" Y2="300" Stroke="Black"></Line>
+        <Line X1="0" Y1="100" X2="300" Y2="100" Stroke="Black"></Line>
+        <Line X1="0" Y1="200" X2="300" Y2="200" Stroke="Black"></Line>
+    </Grid>
+</Window>
