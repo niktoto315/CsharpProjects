@@ -1,0 +1,17 @@
+C:\Users\User\source\repos\РеализацияСимплекс-метода\РеализацияСимплекс-метода\bin\Release\РеализацияСимплекс-метода.exe.config
+C:\Users\User\source\repos\РеализацияСимплекс-метода\РеализацияСимплекс-метода\bin\Release\РеализацияСимплекс-метода.exe
+C:\Users\User\source\repos\РеализацияСимплекс-метода\РеализацияСимплекс-метода\bin\Release\РеализацияСимплекс-метода.pdb
+C:\Users\User\source\repos\РеализацияСимплекс-метода\РеализацияСимплекс-метода\obj\Release\РеализацияСимплекс-метода.csprojAssemblyReference.cache
+C:\Users\User\source\repos\РеализацияСимплекс-метода\РеализацияСимплекс-метода\obj\Release\MainWindow.g.cs
+C:\Users\User\source\repos\РеализацияСимплекс-метода\РеализацияСимплекс-метода\obj\Release\Output.g.cs
+C:\Users\User\source\repos\РеализацияСимплекс-метода\РеализацияСимплекс-метода\obj\Release\App.g.cs
+C:\Users\User\source\repos\РеализацияСимплекс-метода\РеализацияСимплекс-метода\obj\Release\РеализацияСимплекс-метода_MarkupCompile.cache
+C:\Users\User\source\repos\РеализацияСимплекс-метода\РеализацияСимплекс-метода\obj\Release\РеализацияСимплекс-метода_MarkupCompile.lref
+C:\Users\User\source\repos\РеализацияСимплекс-метода\РеализацияСимплекс-метода\obj\Release\MainWindow.baml
+C:\Users\User\source\repos\РеализацияСимплекс-метода\РеализацияСимплекс-метода\obj\Release\Output.baml
+C:\Users\User\source\repos\РеализацияСимплекс-метода\РеализацияСимплекс-метода\obj\Release\РеализацияСимплекс-метода.g.resources
+C:\Users\User\source\repos\РеализацияСимплекс-метода\РеализацияСимплекс-метода\obj\Release\РеализацияСимплекс_метода.Properties.Resources.resources
+C:\Users\User\source\repos\РеализацияСимплекс-метода\РеализацияСимплекс-метода\obj\Release\РеализацияСимплекс-метода.csproj.GenerateResource.cache
+C:\Users\User\source\repos\РеализацияСимплекс-метода\РеализацияСимплекс-метода\obj\Release\РеализацияСимплекс-метода.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\РеализацияСимплекс-метода\РеализацияСимплекс-метода\obj\Release\РеализацияСимплекс-метода.exe
+C:\Users\User\source\repos\РеализацияСимплекс-метода\РеализацияСимплекс-метода\obj\Release\РеализацияСимплекс-метода.pdb
