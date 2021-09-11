@@ -1,0 +1,13 @@
+C:\Users\User\source\repos\КонсольнйКликер\КонсольнйКликер\bin\Release\netcoreapp3.1\КонсольныйКликер.exe
+C:\Users\User\source\repos\КонсольнйКликер\КонсольнйКликер\bin\Release\netcoreapp3.1\КонсольныйКликер.deps.json
+C:\Users\User\source\repos\КонсольнйКликер\КонсольнйКликер\bin\Release\netcoreapp3.1\КонсольныйКликер.runtimeconfig.json
+C:\Users\User\source\repos\КонсольнйКликер\КонсольнйКликер\bin\Release\netcoreapp3.1\КонсольныйКликер.runtimeconfig.dev.json
+C:\Users\User\source\repos\КонсольнйКликер\КонсольнйКликер\bin\Release\netcoreapp3.1\КонсольныйКликер.dll
+C:\Users\User\source\repos\КонсольнйКликер\КонсольнйКликер\bin\Release\netcoreapp3.1\КонсольныйКликер.pdb
+C:\Users\User\source\repos\КонсольнйКликер\КонсольнйКликер\obj\Release\netcoreapp3.1\КонсольныйКликер.csprojAssemblyReference.cache
+C:\Users\User\source\repos\КонсольнйКликер\КонсольнйКликер\obj\Release\netcoreapp3.1\КонсольныйКликер.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\КонсольнйКликер\КонсольнйКликер\obj\Release\netcoreapp3.1\КонсольныйКликер.AssemblyInfo.cs
+C:\Users\User\source\repos\КонсольнйКликер\КонсольнйКликер\obj\Release\netcoreapp3.1\КонсольныйКликер.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\КонсольнйКликер\КонсольнйКликер\obj\Release\netcoreapp3.1\КонсольныйКликер.dll
+C:\Users\User\source\repos\КонсольнйКликер\КонсольнйКликер\obj\Release\netcoreapp3.1\КонсольныйКликер.pdb
+C:\Users\User\source\repos\КонсольнйКликер\КонсольнйКликер\obj\Release\netcoreapp3.1\КонсольныйКликер.genruntimeconfig.cache
