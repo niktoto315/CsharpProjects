@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30225.117
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Быки и коровы new", "Быки и коровы new\Быки и коровы new.csproj", "{F4C10F5A-DF3C-4795-9163-FA07B7F8E0B1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F4C10F5A-DF3C-4795-9163-FA07B7F8E0B1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F4C10F5A-DF3C-4795-9163-FA07B7F8E0B1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F4C10F5A-DF3C-4795-9163-FA07B7F8E0B1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F4C10F5A-DF3C-4795-9163-FA07B7F8E0B1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B460CE12-C20C-4E48-A343-036D4C30927A}
+	EndGlobalSection
+EndGlobal
