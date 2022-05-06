@@ -1,0 +1,37 @@
+﻿<Window x:Class="РеализацияСимплекс_метода.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:РеализацияСимплекс_метода"
+        mc:Ignorable="d"
+        Title="Симплекс-метод" Width="640px" Height="300px" ResizeMode="CanMinimize" Closing="Window_Closing">
+    <Grid x:Name="maingrid">
+        <!--Подсказка о значении ComboBox-->
+        <TextBlock TextWrapping="Wrap" Text="Число переменных" HorizontalAlignment="Left" VerticalAlignment="Top" Width="110" Height="20" Margin="10,10,0,0"/>
+        <!--Количесто переменных-->
+        <ComboBox x:Name="CMBn" HorizontalAlignment="Left" VerticalAlignment="Top" Width="40" Height="20" Margin="120,10,0,0" SelectionChanged="SelectionChanged">
+            <ComboBoxItem Content="2"/>
+            <ComboBoxItem Content="3"/>
+            <ComboBoxItem Content="4"/>
+            <ComboBoxItem Content="5"/>
+        </ComboBox>
+        <!--Подсказка о значении ComboBox-->
+        <TextBlock TextWrapping="Wrap" Text="Число ограничений" HorizontalAlignment="Left" VerticalAlignment="Top" Width="110" Height="20" Margin="170,10,0,0"/>
+        <!--Количество ограничений-->
+        <ComboBox x:Name="CMBm" HorizontalAlignment="Left" VerticalAlignment="Top" Width="40" Height="20" Margin="290,10,0,0" SelectionChanged="SelectionChanged">
+            <ComboBoxItem Content="2"/>
+            <ComboBoxItem Content="3"/>
+            <ComboBoxItem Content="4"/>
+            <ComboBoxItem Content="5"/>
+        </ComboBox>
+        <!--Цель функции-->
+        <CheckBox x:Name="CB1" Content="Максимизировать" HorizontalAlignment="Left" VerticalAlignment="Top" Width="200" Height="20" Margin="340,10,0,0" Click="CB1_Click" IsChecked="True"/>
+        <!--Компоновка элементов для ввода целевой функции-->
+        <StackPanel x:Name="AimFun" HorizontalAlignment="Center" VerticalAlignment="Top" Width="600" Height="30" Margin="10,50,10,0" Orientation="Horizontal"/>
+        <!--Компоновка элементов для ввода системы ограничений-->
+        <UniformGrid x:Name="SystemLimits" HorizontalAlignment="Left" VerticalAlignment="Top" Width="600" Height="120" Margin="12,90,0,50"/>
+        <!--Кнопка вычислений-->
+        <Button x:Name="Result" Content="Вычислить" HorizontalAlignment="Center" VerticalAlignment="Bottom" Margin="10,0,10,10" Width="600" Height="30" Click="Result_Click"/>
+    </Grid>
+</Window>
